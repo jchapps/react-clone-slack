@@ -1,6 +1,6 @@
 {
   "name": "test-app",
-  "homepage": "http://jchapps.github.io/react-slack-clone",
+  "homepage": "http://jchapps.github.io/react-clone-slack",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
