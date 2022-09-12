@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-slack-clone/static/css/main.ad764a86.css",
-    "main.js": "/react-slack-clone/static/js/main.50edd5fb.js",
-    "static/js/787.a86f3764.chunk.js": "/react-slack-clone/static/js/787.a86f3764.chunk.js",
-    "static/media/lina.jpg": "/react-slack-clone/static/media/lina.c42e0488afeb12c5dc9f.jpg",
-    "static/media/weaver.jpg": "/react-slack-clone/static/media/weaver.03b62924e0b5f55c9cb5.jpg",
-    "index.html": "/react-slack-clone/index.html",
-    "main.ad764a86.css.map": "/react-slack-clone/static/css/main.ad764a86.css.map",
-    "main.50edd5fb.js.map": "/react-slack-clone/static/js/main.50edd5fb.js.map",
-    "787.a86f3764.chunk.js.map": "/react-slack-clone/static/js/787.a86f3764.chunk.js.map"
+    "main.css": "/react-clone-slack/static/css/main.ad764a86.css",
+    "main.js": "/react-clone-slack/static/js/main.f1f3028b.js",
+    "static/js/787.a86f3764.chunk.js": "/react-clone-slack/static/js/787.a86f3764.chunk.js",
+    "static/media/lina.jpg": "/react-clone-slack/static/media/lina.c42e0488afeb12c5dc9f.jpg",
+    "static/media/weaver.jpg": "/react-clone-slack/static/media/weaver.03b62924e0b5f55c9cb5.jpg",
+    "index.html": "/react-clone-slack/index.html",
+    "main.ad764a86.css.map": "/react-clone-slack/static/css/main.ad764a86.css.map",
+    "main.f1f3028b.js.map": "/react-clone-slack/static/js/main.f1f3028b.js.map",
+    "787.a86f3764.chunk.js.map": "/react-clone-slack/static/js/787.a86f3764.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad764a86.css",
-    "static/js/main.50edd5fb.js"
+    "static/js/main.f1f3028b.js"
   ]
 }
